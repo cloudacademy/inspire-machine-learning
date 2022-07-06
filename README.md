@@ -7,6 +7,7 @@ This webinar is held by the Inspire team. Please contact us on inspire at clouda
 You will find:
  - a `data` folder containing the data used in this series;
  - a folder called `episode_01` containing the material related to the first episode entitled _Introduction to Machine Learning Pipelines_.
+ - a folder called `episode_02` containing the material related to the second episode entitled _Modern Machine Learning Pipelines for Text Mining_.
 
 ## Setting Up the Google Colab Environment
 
